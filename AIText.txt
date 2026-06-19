@@ -1,1 +1,1 @@
-Agentic AI refers to systems that can plan, decide, and act toward goals with limited human guidance. Unlike basic chatbots, they can use tools, remember context, break tasks into steps, and adapt based on results. This makes them useful for automation, research, support workflows, and complex decision-making tasks.
+This is new commit
